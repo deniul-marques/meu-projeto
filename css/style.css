@@ -1,0 +1,75 @@
+body{
+      font-family: 'Open Sans', sans-serif;
+      text-align: center;
+      margin: 0;
+      line-height: 28px;
+}
+
+h1{
+      font-family: 'Inter', sans-serif;
+      font-weight: 400;
+}
+
+h1 span{
+      font-weight: bold;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+hr{
+      max-width: 592px;
+      margin: auto;
+}
+
+#hero{
+      max-width: 592px;
+      margin: 0 auto 72px;
+}
+
+#balls{
+      position: fixed;
+      bottom: 0;
+      right: 0;
+}
+
+
+.mb-32{
+      margin-bottom: 32px;
+}
+
+
+.mb-72{
+      margin-bottom: 72px;
+}
+
+.flex{
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+}
+
+.mb-5{
+      margin-bottom: 1.75rem;
+}
+
+.text-gray{
+      color: rgb(97, 91, 91);
+}
+
+.text-black{
+      color: black;
+}
+
+.text-yellow{
+      color:  #FF9900;
+}
+
+.text-strong{
+      font-weight: 700;
+}
+
+#footer{
+      position: relative;
+}
